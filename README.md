@@ -25,10 +25,10 @@ Netflix-Data-Analysis/
 │   └── netflix_titles.xlsx
 │
 ├── Notebook/
-│   └── netflix_analysis.ipynb
+│   └── netflix_data.ipynb
 │
 └── Visuals/
-    └── PowerBI_visuals.png
+    └── PowerBI visuals of netflix data.png
 
 🔍 Key Insights
 
