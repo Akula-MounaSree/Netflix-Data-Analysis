@@ -1,42 +1,67 @@
 # Netflix-Data-Analysis
 Exploratory analysis on Netflix titles dataset using Python &amp; Power BI
 
+🎬 Netflix Data Analysis Project
 
-This is a beginner-friendly data analysis project using Python (Pandas, NumPy, Matplotlib, Seaborn) and Power BI.
+This project explores Netflix titles using Python, Pandas, and Data Visualization.
+It also includes Power BI dashboard visuals for interactive insights.
 
-✅ Goals
+📌 Objectives
 
-Understand Netflix catalog trends
+Clean and analyze Netflix data
 
-Compare Movies vs TV Shows
+Understand types of content on Netflix
 
-Analyze Genre distribution
+Visualize trends using:
 
-Observe content growth by years
+Matplotlib & Seaborn (Python)
 
-Create visuals using Power BI
+Power BI dashboards
 
-📂 Files Included
-File	Description
-netflix_titles.xlsx	----Original dataset
-netflix_analysis.ipynb	----- Data cleaning + Python visuals
-netflix_visuals.png	---- Summary dashboard visuals
-🔧 Tools Used
+📂 Project Structure
+Netflix-Data-Analysis/
+│
+├── Data/
+│   └── netflix_titles.xlsx
+│
+├── Notebook/
+│   └── netflix_analysis.ipynb
+│
+└── Visuals/
+    └── PowerBI_visuals.png
 
-Python
+🔍 Key Insights
 
-Pandas, NumPy, Matplotlib, Seaborn
+Movies dominate Netflix library 📽️
 
-Power BI
+Top contributing countries: United States, India 🇺🇸🇮🇳
 
-Jupyter Notebook
+Majority content released after 2010
 
-✅ Insights
+Strong focus on Drama & International TV Shows
 
-Movies dominate Netflix content
+🛠 Tools & Technologies
+Tool	Purpose
+Python	Data Cleaning & EDA
+Pandas	Data manipulation
+Matplotlib / Seaborn	Visualizations
+Power BI	Dashboard creation
+GitHub	Project hosting
+📊 Power BI Dashboard
 
-Majority of content produced by US & India
+Here’s a glimpse of the visuals created using Power BI:
 
-Sharp growth in content after 2015
+🧠 Learnings
 
-Dramas & Comedies are most popular genres
+Import & clean datasets using Python
+
+Exploratory analysis for real-world data
+
+Uploading Projects to GitHub & LinkedIn
+
+Dashboard creation with Power BI
+
+
+⭐ Give this repo a star!
+
+It motivates me to do more amazing projects 😄✨
