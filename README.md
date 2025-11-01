@@ -61,6 +61,7 @@ Uploading Projects to GitHub & LinkedIn
 
 Dashboard creation with Power BI
 
+Linkedin: www.linkedin.com/in/mounasree-akula-a6ba25296
 
 ⭐ Give this repo a star!
 
