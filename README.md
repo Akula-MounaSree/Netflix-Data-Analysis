@@ -1,68 +1,38 @@
-# Netflix-Data-Analysis
-Exploratory analysis on Netflix titles dataset using Python &amp; Power BI
+📊 Netflix Data Analysis — Python Project
+As a final-year Computer Science student, I built this project to explore and analyze Netflix content using real-world data. The goal was to identify trends in Movies and TV Shows across different regions, genres, and years.
+📁 Dataset Source
+This dataset is publicly available on Kaggle → Netflix Movies and TV Shows Dataset
+🔍 Project Objectives
+Analyze the split between Movies vs TV Shows
+Identify Top countries producing Netflix content
+Explore Content growth over the years
+Study Genre and rating distributions
+| Category        | Tech                               |
+| --------------- | ---------------------------------- |
+| Programming     | Python                             |
+| Libraries       | Pandas, NumPy, Matplotlib, Seaborn |
+| Version Control | Git & GitHub                       |
 
-🎬 Netflix Data Analysis Project
+📈 Visual Insights
+Some key visualizations included:
+🍿 Movies vs TV Shows distribution
+🌍 Top 10 Countries with highest content
+📆 Year-wise content growth
+🎭 Most frequent genres
+🔖 Audience Rating categories
+(Full visuals shown inside Jupyter Notebook)
+| File                          | Description                                       |
+| ----------------------------- | ------------------------------------------------- |
+| `Netflix_Data_Analysis.ipynb` | Jupyter Notebook with all code + visuals          |
+| `netflix_titles.xlsx`          | Original dataset                                  |
+| `visuals/`                    | Folder containing visualization images (optional) |
 
-This project explores Netflix titles using Python, Pandas, and Data Visualization.
-It also includes Power BI dashboard visuals for interactive insights.
-
-📌 Objectives
-
-Clean and analyze Netflix data
-
-Understand types of content on Netflix
-
-Visualize trends using:
-
-Matplotlib & Seaborn (Python)
-
-Power BI dashboards
-
-📂 Project Structure
-Netflix-Data-Analysis/
-│
-├── Data/
-│   └── netflix_titles.xlsx
-│
-├── Notebook/
-│   └── netflix_data.ipynb
-│
-└── Visuals/
-    └── PowerBI visuals of netflix data.png
-
-🔍 Key Insights
-
-Movies dominate Netflix library 📽️
-
-Top contributing countries: United States, India 🇺🇸🇮🇳
-
-Majority content released after 2010
-
-Strong focus on Drama & International TV Shows
-
-🛠 Tools & Technologies
-Tool	Purpose
-Python	Data Cleaning & EDA
-Pandas	Data manipulation
-Matplotlib / Seaborn	Visualizations
-Power BI	Dashboard creation
-GitHub	Project hosting
-📊 Power BI Dashboard
-
-Here’s a glimpse of the visuals created using Power BI:
-
-🧠 Learnings
-
-Import & clean datasets using Python
-
-Exploratory analysis for real-world data
-
-Uploading Projects to GitHub & LinkedIn
-
-Dashboard creation with Power BI
+✅ Future Improvements
+Power BI dashboard for interactive insights
+Deployment on a portfolio website
+Including ML-based content recommendations
 
 Linkedin: www.linkedin.com/in/mounasree-akula-a6ba25296
 
 ⭐ Give this repo a star!
-
 It motivates me to do more amazing projects 😄✨
